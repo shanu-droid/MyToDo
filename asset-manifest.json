@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/shanu-droid/MyToDo.git/static/css/main.6696e133.chunk.css",
-    "main.js": "/shanu-droid/MyToDo.git/static/js/main.c1256981.chunk.js",
-    "main.js.map": "/shanu-droid/MyToDo.git/static/js/main.c1256981.chunk.js.map",
-    "runtime-main.js": "/shanu-droid/MyToDo.git/static/js/runtime-main.e5ed351f.js",
-    "runtime-main.js.map": "/shanu-droid/MyToDo.git/static/js/runtime-main.e5ed351f.js.map",
-    "static/js/2.87066371.chunk.js": "/shanu-droid/MyToDo.git/static/js/2.87066371.chunk.js",
-    "static/js/2.87066371.chunk.js.map": "/shanu-droid/MyToDo.git/static/js/2.87066371.chunk.js.map",
-    "static/js/3.555c80b5.chunk.js": "/shanu-droid/MyToDo.git/static/js/3.555c80b5.chunk.js",
-    "static/js/3.555c80b5.chunk.js.map": "/shanu-droid/MyToDo.git/static/js/3.555c80b5.chunk.js.map",
-    "index.html": "/shanu-droid/MyToDo.git/index.html",
-    "static/css/main.6696e133.chunk.css.map": "/shanu-droid/MyToDo.git/static/css/main.6696e133.chunk.css.map",
-    "static/js/2.87066371.chunk.js.LICENSE.txt": "/shanu-droid/MyToDo.git/static/js/2.87066371.chunk.js.LICENSE.txt",
-    "static/media/todo-logo.00a94b5c.png": "/shanu-droid/MyToDo.git/static/media/todo-logo.00a94b5c.png"
+    "main.css": "/MyToDo/static/css/main.6696e133.chunk.css",
+    "main.js": "/MyToDo/static/js/main.c1256981.chunk.js",
+    "main.js.map": "/MyToDo/static/js/main.c1256981.chunk.js.map",
+    "runtime-main.js": "/MyToDo/static/js/runtime-main.a3111092.js",
+    "runtime-main.js.map": "/MyToDo/static/js/runtime-main.a3111092.js.map",
+    "static/js/2.87066371.chunk.js": "/MyToDo/static/js/2.87066371.chunk.js",
+    "static/js/2.87066371.chunk.js.map": "/MyToDo/static/js/2.87066371.chunk.js.map",
+    "static/js/3.555c80b5.chunk.js": "/MyToDo/static/js/3.555c80b5.chunk.js",
+    "static/js/3.555c80b5.chunk.js.map": "/MyToDo/static/js/3.555c80b5.chunk.js.map",
+    "index.html": "/MyToDo/index.html",
+    "static/css/main.6696e133.chunk.css.map": "/MyToDo/static/css/main.6696e133.chunk.css.map",
+    "static/js/2.87066371.chunk.js.LICENSE.txt": "/MyToDo/static/js/2.87066371.chunk.js.LICENSE.txt",
+    "static/media/todo-logo.00a94b5c.png": "/MyToDo/static/media/todo-logo.00a94b5c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5ed351f.js",
+    "static/js/runtime-main.a3111092.js",
     "static/js/2.87066371.chunk.js",
     "static/css/main.6696e133.chunk.css",
     "static/js/main.c1256981.chunk.js"
